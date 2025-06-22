@@ -27,6 +27,11 @@ This portfolio is a curated collection of my case studies where I test, analyze,
 * **AI Model Used:** DeepSeek
 * **[➡️ View Project Repository](https://github.com/Noyonbond47/Genre-mashing-using-AI)** *(Contains: Full Case Study, Raw Chat Log, Final Story Summary)*
 
+### 4. Case Study: Testing Narrative Coherence in an Absurdist World
+* **Description:** An analysis of an AI's ability to generate a coherent, chapter-based story within a deliberately chaotic and absurdist world, based on the "zero-to-one-hundred" plot escalation model of modern cartoons.
+* **AI Model Used:** DeepSeek
+* **[➡️ View Project Repository](https://github.com/Noyonbond47/AI-to-use-absurd-storytelling)** *(Contains: Full Case Study, Raw Chat Log, Final Story/World-Building Docs)*
+
 ---
 
 ### Future Research Areas
