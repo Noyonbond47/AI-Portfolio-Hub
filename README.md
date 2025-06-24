@@ -32,6 +32,11 @@ This portfolio is a curated collection of my case studies where I test, analyze,
 * **AI Model Used:** DeepSeek
 * **[➡️ View Project Repository](https://github.com/Noyonbond47/AI-to-use-absurd-storytelling)** *(Contains: Full Case Study, Raw Chat Log, Final Story/World-Building Docs)*
 
+
+### 5. Case Study: Subverting Established IP with Philosophical Themes
+* **Description:** A research project focused on testing an AI's ability to subvert the core nihilistic formula of an established horror franchise (*Final Destination*) and replace it with a complex, philosophical narrative about mortality and acceptance, inspired by the legacy of actor Tony Todd.
+* **AI Model Used:** DeepSeek
+* **[➡️ View Project Repository](https://github.com/Noyonbond47/AI-to-create-a-final-destination-plot-with-a-twist)** *(Contains: Full Case Study, AI-Generated Core Premise, and Raw Chat Log)*
 ---
 
 ### Future Research Areas
