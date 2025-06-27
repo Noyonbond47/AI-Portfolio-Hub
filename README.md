@@ -38,7 +38,7 @@ This portfolio is a curated collection of my case studies where I test, analyze,
 * **AI Model Used:** DeepSeek
 * **[➡️ View Project Repository](https://github.com/Noyonbond47/AI-to-create-a-final-destination-plot-with-a-twist)** *(Contains: Full Case Study, AI-Generated Core Premise, and Raw Chat Log)*
 
-### 5. Case Study: Generating Long-Form Narrative for a Niche Entertainment Genre
+### 6. Case Study: Generating Long-Form Narrative for a Niche Entertainment Genre
 * **Description:** An analysis of an AI's ability to generate a complex, year-long storyline for the unique, rule-based world of professional wrestling. This project tested the AI's capacity to maintain narrative consistency, develop character arcs ("heel" and "face"), and adhere to genre-specific tropes, using a real-life "what if" scenario as a creative catalyst.
 * **AI Model Used:** DeepSeek
 * **[➡️ View Project Repository](https://github.com/Noyonbond47/using-AI-to-generate-a-wrestling-storyline)** *(Contains: Full Case Study, Final Story Summary, and Raw Chat Log)*
